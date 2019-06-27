@@ -1,0 +1,23 @@
+	header{
+		background-color: black;
+		height: 50px;
+		width: 100%;
+		display: flex;
+      	justify-content: flex-end;
+      	align-items: center;
+      	font-style: "Segoe UI Black";
+	}
+	header a{
+		padding-right: 10px;
+		color: white;
+		text-decoration: none;
+	}
+	.big{
+		background-image: url("ro1.jpg");
+		height: 500px;
+		width: 100%;
+		}
+	#b-1{
+		margin-top: 100px;
+		background-color: white;
+	}
